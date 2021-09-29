@@ -1,4 +1,4 @@
--# ------------------------------------------------------
+-# ------------------------------------------------------ #hola
 # Convierte un número binario a hexadecimal.
 # El número binario es un string e.g. "101"
 # El número hexadecimal es también un string e.g. "AB5"

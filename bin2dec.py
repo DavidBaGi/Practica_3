@@ -29,3 +29,4 @@ if __name__ == "__main__":
     # Para imprimir un entero es necesario convertirlo a string con str()
     print("El numero binario " + numero_binario + " es " + str(numero_decimal) + " en decimal.")
     
+    hola, esto no va bien
